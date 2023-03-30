@@ -21,7 +21,7 @@ import numpy as np
 # print(newdata.ravel())
 
 #常用的初始化矩陣
-# data = np.zeros(120).reshape(4,2,5,3)
+# data = np.zeros(120).reshape(4,2,53)
 # print(data)
 # print(data.shape)
 

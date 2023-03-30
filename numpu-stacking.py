@@ -23,6 +23,3 @@ arr3 = np.array([
 # 合併第二個維度
 result2 = np.hstack((arr1,arr2,arr3))
 print(result2)  #2*8
-
-
-###
